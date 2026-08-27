@@ -83,6 +83,10 @@ This section is below the line.
 \* This is not italic.\*
 \# This is not a heading.
 
+### Strickethrough Practice 
+~~This text is a crossed out.~~
+
+
 
 
 
