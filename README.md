@@ -73,6 +73,14 @@ This section is above the line.
 ---
 This section is below the line.
 
+### Image Practice 
+![small dog](small%20dog.jpg)
+
+### Clickable Link Practice 
+[![small dog](small%20dog.jpg)](https://github.com)
+
+
+
 
 
 
