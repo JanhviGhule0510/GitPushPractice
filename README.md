@@ -79,6 +79,10 @@ This section is below the line.
 ### Clickable Link Practice 
 [![small dog](small%20dog.jpg)](https://github.com)
 
+### Escaping characters 
+\* This is not italic.\*
+\# This is not a heading.
+
 
 
 
