@@ -61,6 +61,14 @@ print("I am learning Markdown.")
 | Git        | Version control |
 | GitHub     | Code Hosting | 
 
+### Learning Checklists 
+- [x] Learn Git
+- [x] Learn GitHub Basic
+- [ ] Learn Python
+- [ ] Build Projects
+
+
+
 
 
 
