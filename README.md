@@ -67,7 +67,11 @@ print("I am learning Markdown.")
 - [ ] Learn Python
 - [ ] Build Projects
 
+### Horizontal Line Practice 
 
+This section is above the line.
+---
+This section is below the line.
 
 
 
