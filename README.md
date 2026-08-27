@@ -13,3 +13,12 @@ This repository is created for practicing Git and GitHub commands.
 - Git fetch
 - Pull requests
 - Remote repositories
+
+## Markdown Practice 
+### Heading Levels 
+This section is created to practice Markdown headings.
+
+### Text Formatting 
+**Git and GitHub are important tools for software developers.**
+*I am learning Markdown for project documentation.*
+***This sentence is bold and italic.***
