@@ -86,6 +86,12 @@ This section is below the line.
 ### Strickethrough Practice 
 ~~This text is a crossed out.~~
 
+### Collapsible Section 
+<details>
+  <summary> Click here to see a message </summary>
+  Congratulations ! I am learning GitHub Markdown.
+</details>
+
 
 
 
