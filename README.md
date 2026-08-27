@@ -38,6 +38,19 @@ This section is created to practice Markdown headings.
 - [GitHub](https://github.com)
 - [Python Official Documentation](https://docs.python.org)
 
+### Code Formatting 
+Use ` git status ` to check the current repository status.
+
+```text
+git add.
+git commit -m "Practice Markdown"
+git push
+```
+
+```python
+print("I am learning Markdown.")
+```
+
 
 
 
