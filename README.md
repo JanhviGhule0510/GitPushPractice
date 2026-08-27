@@ -92,6 +92,10 @@ This section is below the line.
   Congratulations ! I am learning GitHub Markdown.
 </details>
 
+### Emoji Practice 
+I am learning GitHub markdown 🚀
+
+Project Completed :white_check_mark:
 
 
 
