@@ -34,6 +34,11 @@ This section is created to practice Markdown headings.
 3. Built projects.
 4. Improve continously.
 
+## Useful Links 
+- [GitHub](https://github.com)
+- [Python Official Documentation](https://docs.python.org)
+
+
 
 
 
